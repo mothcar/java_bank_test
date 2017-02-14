@@ -1,6 +1,7 @@
 /**
  * Created by paul on 14/02/2017.
  */
+// check this out.
 public class Bicycle {
 
     // the Bicycle class has three fields
