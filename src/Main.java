@@ -40,7 +40,7 @@ class SavingsAccount extends Account
 {
     SavingsAccount(long amount)
     {
-        super("savings", amount);    // why "savings"?  temp to David
+        super("David savings", amount);    // why "savings"?  temp to David
     }
 }
 
@@ -49,7 +49,7 @@ class CheckingAccount extends Account
 {
     CheckingAccount(long amount)
     {
-        super("checking", amount);
+        super("David checking", amount);
     }
 
     void withdraw(long amount)
